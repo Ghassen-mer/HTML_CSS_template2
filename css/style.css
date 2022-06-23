@@ -496,52 +496,9 @@ header nav .search i {
   text-align: center;
 }
 
-/* video */
-
-.video {
-  position: relative;
-}
-
-.video::before {
-  content: "";
-  position: absolute;
-  background-color: rgba(0, 0, 0, 0.596);
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-}
 
 
-video {
-  width: 100%;
-}
 
-.video .vd-text {
-  position: absolute;
-  background-color: #136174cb;
-  padding: 50px;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  color: white;
-  transform: translateY(-50%);
-}
-
-.video .vd-text h2 {
-  margin-bottom: 30px;
-  font-weight: normal;
-}
-
-.video .vd-text p {
-  margin-bottom: 35px;
-}
-
-.video .vd-text a {
-  color: white;
-  background-color: black;
-  padding: 10px;
-}
 
 
 /* About us */
